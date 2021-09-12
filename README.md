@@ -1,5 +1,5 @@
 Replace them to 
 
 ```
-/system/fonts/NotoColorEmojimttf
+/system/fonts/NotoColorEmoji.ttf
 ```
