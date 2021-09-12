@@ -1,1 +1,5 @@
-# best-emoji
+Replace them to 
+
+```
+/system/fonts/NotoColorEmojimttf
+```
